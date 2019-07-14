@@ -5,6 +5,7 @@ public class class2 {
 	{
 		return a+b;
 		
+		
 	}
 
 }
