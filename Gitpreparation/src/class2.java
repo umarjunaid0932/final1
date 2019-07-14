@@ -8,7 +8,6 @@ public class class2 {
 		
 	}
 	
-	public void asuu() 
-	{}
+	public void asas() {}
 
 }
