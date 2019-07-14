@@ -7,5 +7,8 @@ public class class2 {
 		
 		
 	}
+	
+	public void asuu() 
+	{}
 
 }
